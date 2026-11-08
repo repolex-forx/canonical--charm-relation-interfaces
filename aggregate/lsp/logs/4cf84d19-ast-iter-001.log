@@ -1,0 +1,7 @@
+[2026-11-08T12:25:05Z] === AST ITERATION 1 START | repo=canonical/charm-relation-interfaces sha=4cf84d19 ===
+[2026-11-08T12:25:05Z] [iter=1] PHASE START: ast repo=canonical/charm-relation-interfaces sha=4cf84d19
+[2026-11-08T12:25:05Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T12:25:37Z] [iter=1] AST chunks built count=1 triples=314390
+[2026-11-08T12:25:37Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4cf84d192962b8a31958fdc2ceffd05e2142cf0f/.complete
+[2026-11-08T12:25:37Z] [iter=1] PHASE END: ast elapsed_s=32 elapsed_min=0.5
+[2026-11-08T12:25:37Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

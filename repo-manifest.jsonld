@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/charm-relation-interfaces/commit/4cf84d192962b8a31958fdc2ceffd05e2142cf0f",
       "git:hexsha": "4cf84d192962b8a31958fdc2ceffd05e2142cf0f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
