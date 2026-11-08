@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "charm-relation-interfaces",
+  "versions": [
+    {
+      "commit": "4cf84d192962b8a31958fdc2ceffd05e2142cf0f",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:26:31.377539+00:00"
+    }
+  ]
+}
